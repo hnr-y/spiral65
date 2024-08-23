@@ -1,4 +1,4 @@
-24383209705255001
+24391831200370017
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57826,6 +57826,27 @@ heatsink
 0
 0
 0
+Images
+signatureBlack2.3mm
+
+
+0
+0
+0
+Images
+signatureBlack6mm
+
+
+0
+0
+0
+Images
+signatureWhite6mm
+
+
+0
+0
+0
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -67325,6 +67346,20 @@ net tie
 0
 4
 4
+New folder
+signature
+
+
+0
+0
+0
+New folder
+signatureBlack
+
+
+0
+0
+0
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
