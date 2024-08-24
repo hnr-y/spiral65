@@ -10945,7 +10945,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677729 7.853537)
+			(mid 8.677693 7.853543)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -10956,7 +10956,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133567 -5.853539)
+			(mid 15.133602 -5.853545)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -10967,7 +10967,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.134806 7.853571)
+			(mid 15.1348 7.853536)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -14472,7 +14472,7 @@
 		)
 		(fp_arc
 			(start 53.38125 7.500001)
-			(mid 53.234806 7.853571)
+			(mid 53.2348 7.853536)
 			(end 52.88125 8.000001)
 			(stroke
 				(width 0.05)
@@ -14483,7 +14483,7 @@
 		)
 		(fp_arc
 			(start 52.880039 -5.999999)
-			(mid 53.233567 -5.853539)
+			(mid 53.233602 -5.853545)
 			(end 53.380039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -14494,7 +14494,7 @@
 		)
 		(fp_arc
 			(start 47.13125 8.000001)
-			(mid 46.777729 7.853537)
+			(mid 46.777693 7.853543)
 			(end 46.63125 7.500001)
 			(stroke
 				(width 0.05)
@@ -14505,7 +14505,7 @@
 		)
 		(fp_arc
 			(start 46.63125 -5.499999)
-			(mid 46.777693 -5.853571)
+			(mid 46.777699 -5.853535)
 			(end 47.13125 -5.999999)
 			(stroke
 				(width 0.05)
@@ -16087,7 +16087,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677729 7.853537)
+			(mid 8.677693 7.853543)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -16098,7 +16098,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133567 -5.853539)
+			(mid 15.133602 -5.853545)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -16109,7 +16109,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.134806 7.853571)
+			(mid 15.1348 7.853536)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -20245,7 +20245,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677729 7.853537)
+			(mid 8.677693 7.853543)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -20256,7 +20256,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133567 -5.853539)
+			(mid 15.133602 -5.853545)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -20267,7 +20267,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.134806 7.853571)
+			(mid 15.1348 7.853536)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -21900,7 +21900,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "B.SilkS")
 			(uuid "5884b85e-a28e-47ff-b2d4-e2a30e99ae38")
 			(effects
@@ -21912,7 +21912,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "db1c7627-f8e6-4362-9aeb-9dc19d4d2f38")
 			(effects
@@ -22071,7 +22071,7 @@
 			(uuid "2c06f977-6ff9-483b-ae7c-fa4ede833647")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.01125 360)
+			(at 0 -0.01125 0)
 			(layer "B.Fab")
 			(uuid "93a3bead-f204-4f94-8c45-f46dfd612aaa")
 			(effects
@@ -22449,7 +22449,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "B.SilkS")
 			(uuid "0cf7db68-3bef-4ae1-a9d3-e7bdf59eabc3")
 			(effects
@@ -22461,7 +22461,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "8c8fa482-07ba-4ccf-834d-1fd5c43fbbb1")
 			(effects
@@ -22620,7 +22620,7 @@
 			(uuid "353c1bbb-874b-4781-8daa-c3a448139049")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "4f78c918-22e1-4787-93ba-4bcfd1b5d083")
 			(effects
@@ -35237,7 +35237,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "B.SilkS")
 			(uuid "cff13017-6e41-4409-9900-c7317dc3ae8b")
 			(effects
@@ -35249,7 +35249,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "cbc20805-9f0c-478c-a5d0-d4a8e3ba26f4")
 			(effects
@@ -35408,7 +35408,7 @@
 			(uuid "fe0e5d87-59d6-481b-adbd-6e86d61bb0b0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "53fe738a-3bff-4768-8756-4f7180ad8b00")
 			(effects
@@ -39425,7 +39425,7 @@
 		(descr "Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf")
 		(tags "SPST Tactile Switch")
 		(property "Reference" "BOOT1"
-			(at 0 3.749999 360)
+			(at 0 3.749999 0)
 			(layer "B.SilkS")
 			(uuid "a9227c5e-7de3-46d4-8ebe-421eff303e6c")
 			(effects
@@ -39437,7 +39437,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 -3.749999 360)
+			(at 0 -3.749999 0)
 			(layer "B.Fab")
 			(uuid "cbbdf799-fbfb-454d-9389-68bdc4c19daa")
 			(effects
@@ -39946,7 +39946,7 @@
 			(uuid "dba6808b-d254-480c-9927-679753a01844")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 3.749999 360)
+			(at 0 3.749999 0)
 			(layer "B.Fab")
 			(uuid "c8320a5b-1254-4887-926c-0388b7a20327")
 			(effects
@@ -41551,7 +41551,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "B.SilkS")
 			(uuid "9e2cec06-586b-4224-897b-dcba93e68a1f")
 			(effects
@@ -41563,7 +41563,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "6890c9e8-c95c-45d4-8b37-ee26142d1ad0")
 			(effects
@@ -41722,7 +41722,7 @@
 			(uuid "b0076b31-fcb4-4f79-a7cf-01917e26eab5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "e2aa2bb2-8d8b-4257-933c-b547b347b595")
 			(effects
@@ -43969,7 +43969,7 @@
 		(descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U4"
-			(at 0 3.56 360)
+			(at 0 3.56 0)
 			(layer "B.SilkS")
 			(uuid "0607f40d-5395-4935-b8ab-29b21f0c2cb1")
 			(effects
@@ -43981,7 +43981,7 @@
 			)
 		)
 		(property "Value" "W25Q128JVS"
-			(at 0 -3.56 360)
+			(at 0 -3.56 0)
 			(layer "B.Fab")
 			(uuid "c6381865-5e7a-4809-ade8-41fa12b9857e")
 			(effects
@@ -44222,7 +44222,7 @@
 			(uuid "8372f0f9-d030-4e65-a3ff-ef0c90835674")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "96cfd1c2-e99d-407e-8ce2-474a703d96d7")
 			(effects
@@ -44881,7 +44881,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "B.SilkS")
 			(uuid "5666a796-a4be-427a-ab20-19b7fab17c06")
 			(effects
@@ -44893,7 +44893,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "6906fe7c-b7ee-4e0e-9a19-9862db428183")
 			(effects
@@ -45052,7 +45052,7 @@
 			(uuid "e181a796-52eb-4501-99f2-dd3831dcddfa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "3aa52964-a565-407d-b72a-d6d0563cfe00")
 			(effects
