@@ -17026,7 +17026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_7u"
 			(at 267.97 129.54 0)
 			(effects
 				(font
@@ -17088,7 +17088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 317.5 127 0)
 			(effects
 				(font
